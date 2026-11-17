@@ -43,7 +43,7 @@ export default function Navbar({ activeSection }: NavbarProps) {
           className="navbar-logo"
           aria-label="Go to home"
         >
-          {profile.name.toUpperCase()} H.
+{profile.name.toUpperCase()}
         </button>
 
         <div className="navbar-links">

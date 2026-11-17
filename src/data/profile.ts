@@ -1,5 +1,5 @@
 export const profile = {
-  name: 'Shreyansh',
+  name: 'Shreyansh Misra',
   brandName: 'Shreyansh',
   fullName: 'Shreyansh',
   role: 'Computer Science & Engineering Student',
